@@ -1,0 +1,5 @@
+evilllm-http-api
+.env*
+!.env.example
+_UPLOADS_/*
+_GENERATED_/*
